@@ -12,3 +12,57 @@
     /RESET
 -------------------*/
 
+
+/*-------------------
+    HEADER
+-------------------*/
+
+header {
+    min-height: 90px;
+    background-color: #ADD8E6;
+    width: 100%;
+    padding: 20px;
+}
+
+.container-header {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+    width: 1000px;
+    height: 40px;
+}
+
+.img-logo {
+    padding-left: 1%;
+    padding-right: 19%;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    border: 1px dashed black;
+}
+
+.link {
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+}
+
+.btn-login {
+    padding-right: 1%;
+    padding-left: 19%;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    border: 1px dashed black;
+}
+
+/*-------------------
+    /HEADER
+-------------------*/
+
